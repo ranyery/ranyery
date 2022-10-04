@@ -6,12 +6,14 @@ Here something about me:
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ranyery/)
 - 🌱 Lifelong learner
 
+<!-- 
 ## 📈 GitHub Stats
 <div align="center">
   <a href="https://github.com/ranyery">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranyery&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranyery&layout=compact&langs_count=7&theme=jolly"/>
 </div>
+-->
 
 ## ⚡ Technologies
 These are some of the technologies and tools that I work with:
