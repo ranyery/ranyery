@@ -1,7 +1,7 @@
 <h2 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ranyery Coutinho</h2>
 
 Here something about me:
-- 🔭 I'm a Software Engineer at [Safra Bank](https://www.safra.com.br/)
+- 🔭 I'm a Software Engineer at [BTG Pactual](https://www.btgpactual.com/)
 - 💬 Ask me about: Development :)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ranyery/)
 - 🌱 Lifelong learner
